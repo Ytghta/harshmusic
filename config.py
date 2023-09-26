@@ -25,7 +25,7 @@ SONG_DOWNLOAD_DURATION = int(
 LOGGER_ID = int(getenv("LOGGER_ID", ""))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "6194877007"))
+OWNER_ID = int(getenv("OWNER_ID", "6685219583"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -35,15 +35,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ytpremiu/VenomMusic",
+    "https://github.com/Ytghta/harshmusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/VenomOwners")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Venom_Chatting")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/yuki_harsh")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/yuki_harsh")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -87,10 +87,10 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/8a5171024a3bc5569ee3f.jpg"
+    "START_IMG_URL", "https://graph.org/file/ab7464b5ba175743f2ca6.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/8a5171024a3bc5569ee3f.jpg"
+    "PING_IMG_URL", "https://graph.org/file/ab7464b5ba175743f2ca6.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/8a5171024a3bc5569ee3f.jpg"
 STATS_IMG_URL = "https://telegra.ph/file/8a5171024a3bc5569ee3f.jpg"
