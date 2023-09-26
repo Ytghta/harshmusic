@@ -1,8 +1,3 @@
-<p align="center">
-    <b>ᴠɪsɪᴛᴏʀs</b><br>
-    <img align="middle" src="https://profile-counter.glitch.me/Ytghta/count.svg" />
-<h2 align="center">
-    
     ──「 ༆ʜᴀʀꜱʜ ᴍᴜꜱɪᴄ༆ 」──
 </h2>
 
