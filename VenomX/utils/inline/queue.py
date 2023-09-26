@@ -21,15 +21,7 @@ def queue_markup(
                 text=_["CLOSE_BUTTON"],
                 callback_data="close",
             ),
-        ],
-         [
-            InlineKeyboardButton(
-                text="💡 ᴏᴡɴᴇʀ 📨", url="https://t.me/FUCK_OF_BOLTE",
-            ),
-            InlineKeyboardButton(
-                text="💡 sᴜᴩᴩᴏʀᴛ 📨", url="https://t.me/yuki_harsh",
-            ),
-        ],
+        ]
     ]
     dur = [
         [
@@ -46,14 +38,6 @@ def queue_markup(
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"],
                 callback_data="close",
-            ),
-        ],
-         [
-            InlineKeyboardButton(
-                text="💡 ᴏᴡɴᴇʀ 📨", url="https://t.me/FUCK_OF_BOLTE",
-            ),
-            InlineKeyboardButton(
-                text="💡 sᴜᴩᴩᴏʀᴛ 📨", url="https://t.me/yuki_harsh",
             ),
         ],
     ]
@@ -73,15 +57,7 @@ def queue_back_markup(_, CPLAY):
                     text=_["CLOSE_BUTTON"],
                     callback_data="close",
                 ),
-           ],
-             [
-            InlineKeyboardButton(
-                text="💡 ᴏᴡɴᴇʀ 📨", url="https://t.me/FUCK_OF_BOLTE",
-            ),
-            InlineKeyboardButton(
-                text="💡 sᴜᴩᴩᴏʀᴛ 📨", url="https://t.me/yuki_harsh",
-            ),
-        ],
+            ]
         ]
     )
     return upl
@@ -94,14 +70,6 @@ def aq_markup(_, chat_id):
             InlineKeyboardButton(text="II", callback_data=f"ADMIN Pause|{chat_id}"),
             InlineKeyboardButton(text="‣‣I", callback_data=f"ADMIN Skip|{chat_id}"),
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
-        ],
-         [
-            InlineKeyboardButton(
-                text="💡 ᴏᴡɴᴇʀ 📨", url="https://t.me/FUCK_OF_BOLTE",
-            ),
-            InlineKeyboardButton(
-                text="💡 sᴜᴩᴩᴏʀᴛ 📨", url="https://t.me/yuki_harsh",
-            ),
         ],
     ]
     return buttons
