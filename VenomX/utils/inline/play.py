@@ -19,10 +19,10 @@ def track_markup(_, videoid, user_id, channel, fplay):
         ],
         [
             InlineKeyboardButton(
-                text="✯ ᴏᴡɴᴇʀ ✯", url="https://t.me/FUCK_OF_BOLTE",
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url="https://t.me/FUCK_OF_BOLTE",
             ),
             InlineKeyboardButton(
-                text="✯ sᴜᴩᴩᴏʀᴛ ✯", url="https://t.me/yuki_harsh",
+                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url="https://t.me/yuki_harsh",
             )
         ],
         [
@@ -76,10 +76,10 @@ def stream_markup_timer(_, chat_id, played, dur):
             ],
         [
             InlineKeyboardButton(
-                text="✯ ᴏᴡɴᴇʀ ✯", url="https://t.me/FUCK_OF_BOLTE",
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url="https://t.me/FUCK_OF_BOLTE",
             ),
             InlineKeyboardButton(
-                text="✯ sᴜᴩᴩᴏʀᴛ ✯", url="https://t.me/yuki_harsh",
+                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url="https://t.me/yuki_harsh",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -98,10 +98,10 @@ def stream_markup(_, chat_id):
             ],
         [
             InlineKeyboardButton(
-                text="✯ ᴏᴡɴᴇʀ ✯", url="https://t.me/FUCK_OF_BOLTE",
+                text="🥀 ᴏᴡɴᴇʀ 🥀", url="https://t.me/FUCK_OF_BOLTE",
             ),
             InlineKeyboardButton(
-                text="✯ sᴜᴩᴩᴏʀᴛ ✯", url="https://t.me/yuki_harsh",
+                text="🥀 sᴜᴩᴩᴏʀᴛ 🥀", url="https://t.me/yuki_harsh",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
