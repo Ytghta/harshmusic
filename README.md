@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「  𝐈𝛕ᷟ͢𝚣⃪ꙴ ⋆‌⃝ʜᴏᴛ𓃭 ⃟ᴍᴜsɪᴄ⛦⃕͜༆ 」──
+    ──「 ༆ʜᴀʀꜱʜ ᴍᴜꜱɪᴄ༆ 」──
 </h2>
 
 <p align="center">
-  <img src="https://telegra.ph/file/8a5171024a3bc5569ee3f.jpg">
+  <img src="https://graph.org/file/b80f3859f373404188d4d.jpg">
 </p>
 
 <p align="center">
